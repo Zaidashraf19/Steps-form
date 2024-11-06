@@ -1,0 +1,144 @@
+.img { 
+    width: 70px;
+}
+.img:hover {
+    color: lightgreen;
+    background-color: black;
+}
+.container1 {
+    border: 2px solid black;
+    border-width: 20px;
+    padding-left: 14px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    padding-right: 10px;
+}
+.img2{
+    width: 70px;
+}
+.img2:hover {
+    color: lightgreen;
+    background-color: black;
+}
+.img3 {
+    width: 70px;
+}
+.img3:hover {
+    color: lightgreen;
+    background-color: black;
+}
+.abc {
+    background-color: grey;
+    padding: 10px;
+    display: inline-block;
+    padding-left: 0px;
+    font-size: small;
+} 
+.abc1 {
+    display: inline;
+    background-color: lightskyblue;
+    padding: 10px;
+}
+.abc2 {
+    display: inline; 
+    padding: 10px;
+}
+.abc3 {
+    display: inline;
+    padding: 10px;
+}
+.abcd {
+    display: inline-block;
+    background-color: grey;
+    padding: 10px;
+    margin: 0px;
+    padding-left: 0px;
+}
+.abcd1 {
+    display: inline;
+    background-color: lightgreen;
+    padding: 10px;
+}
+.abcd2 {
+    display: inline;
+    background-color: lightskyblue;
+    padding: 10px;
+}
+.abcd3 {
+    padding: 10px;
+    display: inline;
+}
+.container2 {
+    border: 2px solid black;
+    border-width: 20px;
+    padding-left: 14px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    padding-right: 10px;
+}
+.img4 {
+    width: 70px;
+}
+.img4:hover {
+    color: lightgreen;
+    background-color: black;
+}
+.img5 {
+    width: 70px;
+}
+.img5:hover {
+    color: lightgreen;
+    background-color: black;
+}
+.ab {
+    display: inline-block;
+    padding: 10px;
+    padding-left: 0px;
+    background-color: grey;
+    margin: 0px;
+}
+.ab1 {
+    display: inline;
+    padding: 10px;
+    background-color: lightgreen ;
+}
+.ab2 {
+    display: inline;
+    padding: 10px;
+    background-color: lightgreen ;
+}
+.ab3 {
+    display: inline;
+    padding: 10px;
+    background-color: hwb(203 53% 2%) ;
+}
+.container3 {
+    border: 2px solid black;
+    border-width: 20px;
+    padding-left: 14px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    padding-right: 10px;
+}
+.img6 {
+    width: 70px;
+}
+.img6:hover {
+    color: lightgreen;
+    background-color: black;
+}
+.img7 {
+    width: 70px;
+}
+.img7:hover {
+    color: lightgreen;
+    background-color: black;
+}
+.container {
+    background-color: lightsalmon;
+}
+.container4 {
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration: underline;
+}
